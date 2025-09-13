@@ -128,6 +128,9 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-200" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-140" target="QCWZtoRrDG8lyNfDkEIP-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-201" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-140" target="QCWZtoRrDG8lyNfDkEIP-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-140" value="Prompt Engineering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="89" width="110" height="21" as="geometry" />
         </mxCell>
@@ -135,7 +138,7 @@
           <mxGeometry x="90" y="149" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-142" value="Context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="149" width="50" height="30" as="geometry" />
+          <mxGeometry x="176" y="164" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-143" value="Output Format" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="149" width="55" height="30" as="geometry" />
