@@ -305,8 +305,8 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-243" value="问题输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="230" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-245" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="227.5" width="90" height="35" as="geometry" />
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-246" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
