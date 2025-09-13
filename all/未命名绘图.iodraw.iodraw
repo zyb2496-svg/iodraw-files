@@ -209,8 +209,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-160" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-160" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="460" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
