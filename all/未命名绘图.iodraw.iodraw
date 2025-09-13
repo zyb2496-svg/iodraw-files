@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="251" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="AI智能体" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
-          <mxGeometry x="174.99999999999991" y="10" width="400" height="50" as="geometry" />
+          <mxGeometry x="190" y="10" width="385" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 2&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;课程内容&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="390" y="146" width="110" height="90" as="geometry" />
