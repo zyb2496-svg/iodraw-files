@@ -235,7 +235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-174" value="AI智能体工作流运作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="39" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-175" value="模型链接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-200" y="260" width="120" height="60" as="geometry" />
@@ -368,10 +368,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-276" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;shadow=0;dashed=1;strokeWidth=2;fillColor=#d80073;glass=0;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry y="210" width="350" height="150" as="geometry" />
+          <mxGeometry x="-10" y="210" width="360" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-277" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;shadow=0;dashed=1;strokeWidth=2;fillColor=#0050ef;glass=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-7.5" y="360" width="487.5" height="70" as="geometry" />
+          <mxGeometry x="-10" y="360" width="490" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
