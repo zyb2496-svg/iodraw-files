@@ -279,7 +279,7 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-231" value="For example" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="480" y="260.5" width="120" height="139.5" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-232" value="Filesystem" style="whiteSpace=wrap;html=1;" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-231">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-232" value="File System" style="whiteSpace=wrap;html=1;" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-231">
           <mxGeometry y="19.5" width="120" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-233" value="Desktop Commander" style="whiteSpace=wrap;html=1;" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-231">
@@ -288,7 +288,7 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-235" value="Fetch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-231">
           <mxGeometry y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-239" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-231">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-239" value="Context7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-231">
           <mxGeometry y="100.5" width="120" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-238" value="Squential Thinking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
