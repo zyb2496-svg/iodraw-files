@@ -367,8 +367,8 @@
             <mxPoint x="-70.5" y="234.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-279" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="360" width="120" height="62.19" as="geometry" />
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-279" value="人工核查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="360" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
