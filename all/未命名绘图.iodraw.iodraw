@@ -255,7 +255,7 @@
             <mxPoint x="600" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-229" value="课程设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-229" value="课程设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-130" y="430" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-231" value="For example" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
@@ -367,7 +367,7 @@
             <mxPoint x="-70.5" y="234.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-279" value="人工核查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-279" value="人工核查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-130" y="360" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
