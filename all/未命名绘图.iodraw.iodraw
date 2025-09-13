@@ -325,8 +325,14 @@
             <mxPoint x="49.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-254" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-251" target="QCWZtoRrDG8lyNfDkEIP-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-251" value="内容生成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="325" width="82.5" height="25" as="geometry" />
+          <mxGeometry x="255" y="320" width="82.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-253" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="73.75" y="305" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
