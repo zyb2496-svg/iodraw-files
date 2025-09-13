@@ -28,8 +28,8 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8" target="7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="196" />
-              <mxPoint x="505" y="200" />
+              <mxPoint x="520" y="196" />
+              <mxPoint x="520" y="196" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,7 +40,7 @@
           <mxGeometry x="700" y="150" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Management" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
-          <mxGeometry x="413" y="390" width="90" height="60" as="geometry" />
+          <mxGeometry x="80" y="480" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13" value="Management" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="60.00000000000006" y="640" width="90" height="60" as="geometry" />
