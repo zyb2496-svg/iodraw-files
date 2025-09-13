@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-113" value="AI模型" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
-          <mxGeometry x="28" y="600" width="770" height="50" as="geometry" />
+          <mxGeometry x="30" y="1000" width="770" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-116" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-139" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;课程大纲&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="52.5" y="261" width="100" height="89" as="geometry" />
+          <mxGeometry x="42.5" y="140" width="100" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
