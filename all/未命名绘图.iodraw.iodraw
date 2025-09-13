@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12" value="MCP" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
-          <mxGeometry x="10" y="310" width="90" height="60" as="geometry" />
+          <mxGeometry x="270" y="230" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-129" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-140" value="提示词工程(Prompt Engineering)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="80" width="85" height="80" as="geometry" />
+          <mxGeometry x="357.5" y="80" width="72.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-141" value="指令(lnstruction)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="70" height="40" as="geometry" />
@@ -156,14 +156,14 @@
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-146" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.071;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="409.58" y="200" as="sourcePoint" />
-            <mxPoint x="410" y="262" as="targetPoint" />
+            <mxPoint x="54.5" y="150" as="sourcePoint" />
+            <mxPoint x="54.920000000000016" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-147" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.071;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="249.57999999999998" y="202" as="sourcePoint" />
-            <mxPoint x="250" y="262" as="targetPoint" />
+            <mxPoint x="160" y="170" as="sourcePoint" />
+            <mxPoint x="160.42000000000002" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-148" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.071;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
