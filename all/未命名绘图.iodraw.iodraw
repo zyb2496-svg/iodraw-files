@@ -43,10 +43,10 @@
           <mxGeometry x="80" y="480" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13" value="Management" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
-          <mxGeometry x="60.00000000000006" y="640" width="90" height="60" as="geometry" />
+          <mxGeometry x="90.00000000000006" y="790" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="15" value="Vendors" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
-          <mxGeometry x="245.9999999999999" y="650" width="90" height="60" as="geometry" />
+          <mxGeometry x="259.9999999999999" y="840" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-100" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.071;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -93,10 +93,10 @@
             <mxPoint x="403" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-116" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.071;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-116" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="242.57999999999998" y="650" as="sourcePoint" />
-            <mxPoint x="243" y="710" as="targetPoint" />
+            <mxPoint x="243" y="600" as="sourcePoint" />
+            <mxPoint x="243" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-117" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.071;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
