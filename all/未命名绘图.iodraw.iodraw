@@ -212,7 +212,7 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-160" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;shadow=0;dashed=1;strokeWidth=2;fillColor=#000000;glass=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="21" width="460" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-161" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-161" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
