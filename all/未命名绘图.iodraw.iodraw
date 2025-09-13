@@ -363,6 +363,11 @@
             <mxPoint x="-70" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-292" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-279">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-279" value="人工核查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-130" y="360" width="120" height="70" as="geometry" />
         </mxCell>
@@ -392,8 +397,8 @@
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-290" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-70.5" y="416.1" as="sourcePoint" />
-            <mxPoint x="-70.5" y="466.1" as="targetPoint" />
+            <mxPoint x="-70.5" y="408.75" as="sourcePoint" />
+            <mxPoint x="-70.5" y="458.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
