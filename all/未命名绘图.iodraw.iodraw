@@ -246,7 +246,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-184" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="480" y="230" width="520" height="220" as="geometry" />
+          <mxGeometry x="440" y="230" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-185" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="QCWZtoRrDG8lyNfDkEIP-184" source="QCWZtoRrDG8lyNfDkEIP-187" target="QCWZtoRrDG8lyNfDkEIP-188">
           <mxGeometry relative="1" as="geometry" />
@@ -256,30 +256,30 @@
         </mxCell>
         <UserObject label="Organization" treeRoot="1" id="QCWZtoRrDG8lyNfDkEIP-187">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-184">
-            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+            <mxGeometry x="190" y="30" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-188" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-184">
-          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+          <mxGeometry x="130" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-189" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-184">
-          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
+          <mxGeometry x="270" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-190" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="QCWZtoRrDG8lyNfDkEIP-191" source="QCWZtoRrDG8lyNfDkEIP-187" parent="QCWZtoRrDG8lyNfDkEIP-184">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770.0000000000001" y="330" as="sourcePoint" />
+            <mxPoint x="880.0000000000001" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-191" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-184">
-          <mxGeometry x="270" y="140" width="100" height="60" as="geometry" />
+          <mxGeometry x="380" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-192" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="QCWZtoRrDG8lyNfDkEIP-193" source="QCWZtoRrDG8lyNfDkEIP-187" parent="QCWZtoRrDG8lyNfDkEIP-184">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770.0000000000001" y="330" as="sourcePoint" />
+            <mxPoint x="880.0000000000001" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-193" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-184">
-          <mxGeometry x="-90" y="140" width="100" height="60" as="geometry" />
+          <mxGeometry x="20" y="130" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
