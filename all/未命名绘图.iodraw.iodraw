@@ -331,8 +331,14 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-251" value="内容生成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="320" width="82.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-253" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-256" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-253" target="QCWZtoRrDG8lyNfDkEIP-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-253" value="输出审查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="317.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-255" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="305" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
