@@ -370,7 +370,7 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-279" value="人工核查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-130" y="360" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-280" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;shadow=0;dashed=1;strokeWidth=2;fillColor=#d0cee2;glass=0;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-280" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;shadow=0;dashed=1;strokeWidth=2;fillColor=#e6d0de;glass=0;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="-10" y="430" width="720" height="80" as="geometry" />
         </mxCell>
       </root>
