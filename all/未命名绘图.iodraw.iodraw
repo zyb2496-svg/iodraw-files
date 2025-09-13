@@ -40,7 +40,7 @@
           <mxGeometry x="670" y="140" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="12" value="MCP" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
-          <mxGeometry x="680" y="370" width="90" height="60" as="geometry" />
+          <mxGeometry x="370" y="340" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13" value="Management" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="90.00000000000006" y="790" width="90" height="60" as="geometry" />
