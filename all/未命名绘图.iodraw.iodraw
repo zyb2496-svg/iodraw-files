@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-140" value="Prompt Engineering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="89" width="110" height="21" as="geometry" />
+          <mxGeometry x="142" y="89" width="110" height="21" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-141" value="lnstruction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="149" width="70" height="30" as="geometry" />
@@ -184,10 +184,10 @@
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-154" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.071;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="226.5" y="59" as="sourcePoint" />
-            <mxPoint x="227" y="89" as="targetPoint" />
+            <mxPoint x="200.5" y="60" as="sourcePoint" />
+            <mxPoint x="201" y="90" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="227" y="79" />
+              <mxPoint x="201" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -216,7 +216,7 @@
           <mxGeometry x="307" y="89" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-162" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="403" y="232.5" width="70" height="20" as="geometry" />
+          <mxGeometry x="392" y="90" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-163" value="插件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="517" y="232.5" width="60" height="20" as="geometry" />
