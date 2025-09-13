@@ -4,14 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#9f1010;strokeWidth=2;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="342" as="sourcePoint" />
-            <mxPoint x="276.25" y="166" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="166" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="QCWZtoRrDG8lyNfDkEIP-98">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;课程大纲&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="236" y="236" width="110" height="90" as="geometry" />
@@ -172,6 +166,9 @@
               <mxPoint x="160" y="610" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-98" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#E6FFCC;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="251" y="81" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
