@@ -305,6 +305,14 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-243" value="问题输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="230" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-247" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-246">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-246" value="问题审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="80" height="30" as="geometry" />
         </mxCell>
