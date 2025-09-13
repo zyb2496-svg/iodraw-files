@@ -259,7 +259,7 @@
           <mxGeometry x="-130" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-231" value="For example" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="460" y="224.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="450" y="224.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-232" value="File System" style="whiteSpace=wrap;html=1;" vertex="1" parent="QCWZtoRrDG8lyNfDkEIP-231">
           <mxGeometry y="19.5" width="120" height="20.5" as="geometry" />
@@ -375,9 +375,6 @@
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-283" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;shadow=0;dashed=1;strokeWidth=2;fillColor=#0050ef;glass=0;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-10" y="370" width="590" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-285" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
