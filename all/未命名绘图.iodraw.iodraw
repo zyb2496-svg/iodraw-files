@@ -234,7 +234,7 @@
             <mxPoint x="200" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-174" value="AI智能体工作流运作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-174" value="AI智能体工作流运作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-200" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-175" value="模型链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
