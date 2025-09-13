@@ -340,10 +340,10 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-255" value="输出结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="315" width="80" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-257" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-257" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.421;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-255">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="460" as="sourcePoint" />
-            <mxPoint x="390" y="410" as="targetPoint" />
+            <mxPoint x="25" y="420" as="sourcePoint" />
+            <mxPoint x="44" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
