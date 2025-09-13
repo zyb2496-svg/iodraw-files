@@ -358,8 +358,8 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-267" value="判断是否需要优化" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="132" y="360" width="138" height="64.38" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-269" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="368.29" width="100" height="47.81" as="geometry" />
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-269" value="给出优化方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="368.29" width="100" height="47.81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
