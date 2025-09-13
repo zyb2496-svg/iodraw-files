@@ -137,8 +137,8 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-142" value="Context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="80" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-143" value="输出格式(Output Format)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="55" height="80" as="geometry" />
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-143" value="Output Format" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-144" value="角色(Role)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="80" width="80" height="80" as="geometry" />
