@@ -125,15 +125,6 @@
             <mxPoint x="400.0000000000001" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-128" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.522;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.661;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-113" target="12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="600" as="sourcePoint" />
-            <mxPoint x="430" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="430" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="12" value="MCP" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="368" y="480" width="90" height="60" as="geometry" />
         </mxCell>
