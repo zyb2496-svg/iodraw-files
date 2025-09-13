@@ -325,8 +325,8 @@
             <mxPoint x="49.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-251" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="355" width="115" height="35" as="geometry" />
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-251" value="内容生成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="325" width="115" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
