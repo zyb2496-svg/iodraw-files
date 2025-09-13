@@ -81,12 +81,6 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-113" value="AI模型" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="28" y="600" width="770" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-114" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.071;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-113">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="93" y="652" as="sourcePoint" />
-            <mxPoint x="83" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-115" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;exitX=0.071;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="402.58" y="648" as="sourcePoint" />
@@ -95,10 +89,10 @@
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-116" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="600" as="sourcePoint" />
-            <mxPoint x="240" y="540" as="targetPoint" />
+            <mxPoint x="244.58" y="600" as="sourcePoint" />
+            <mxPoint x="244.58" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="570" />
+              <mxPoint x="244.58" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
