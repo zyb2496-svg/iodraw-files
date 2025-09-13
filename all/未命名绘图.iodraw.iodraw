@@ -337,8 +337,8 @@
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-253" value="输出审查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="317.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-255" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="312.5" width="80" height="37.5" as="geometry" />
+        <mxCell id="QCWZtoRrDG8lyNfDkEIP-255" value="输出结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="317.5" width="80" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
