@@ -112,9 +112,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12" target="QCWZtoRrDG8lyNfDkEIP-151">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="12" value="MCP" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="20" y="380" width="90" height="60" as="geometry" />
         </mxCell>
@@ -186,9 +183,6 @@
               <mxPoint x="60" y="360" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-151" value="MCP" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="190" y="380" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
