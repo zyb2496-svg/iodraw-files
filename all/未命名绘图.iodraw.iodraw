@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-140" value="Prompt Engineering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="89" width="110" height="31" as="geometry" />
+          <mxGeometry x="172" y="89" width="110" height="21" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-141" value="lnstruction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="149" width="70" height="30" as="geometry" />
@@ -232,12 +232,6 @@
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-175" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="149" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QCWZtoRrDG8lyNfDkEIP-176" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="460" y="390" as="sourcePoint" />
-            <mxPoint x="560" y="290" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
