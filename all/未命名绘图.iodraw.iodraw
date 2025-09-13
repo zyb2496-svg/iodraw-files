@@ -299,22 +299,22 @@
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-244" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-243">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="245" as="targetPoint" />
+            <mxPoint x="142.5" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-243" value="问题输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="230" width="80" height="30" as="geometry" />
+          <mxGeometry x="22.5" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-248" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCWZtoRrDG8lyNfDkEIP-246">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="245" as="targetPoint" />
+            <mxPoint x="262.5" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-246" value="问题审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="80" height="30" as="geometry" />
+          <mxGeometry x="142.5" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QCWZtoRrDG8lyNfDkEIP-249" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="220" width="85" height="30" as="geometry" />
+          <mxGeometry x="265" y="230" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
